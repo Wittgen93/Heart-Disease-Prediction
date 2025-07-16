@@ -1,1 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Model artifacts
+models/
+
+# System files
+.DS_Store
