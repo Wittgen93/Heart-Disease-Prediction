@@ -20,3 +20,5 @@ models/
 
 # System files
 .DS_Store
+.vscode/
+*.log
